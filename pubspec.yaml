@@ -1,0 +1,33 @@
+name: ya_rabbi
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.25.4
+  firebase_auth: ^4.17.4
+  animate_do: ^3.3.3
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^0.22.0
+  google_sign_in: ^6.2.1
+  http: ^1.2.0
+  speech_to_text: ^6.6.0
+  flutter_dotenv: ^5.1.0
+  flutter_tts: ^3.8.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+assets:
+  - .env
+  - assets/undraw_login_re_4vu2.svg
