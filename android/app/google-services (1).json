@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "544241386423",
+    "project_id": "fai-app-d8bc8",
+    "storage_bucket": "fai-app-d8bc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544241386423:android:ede9b77ddf7977b9d19e32",
+        "android_client_info": {
+          "package_name": "com.example.ya_rabbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544241386423-aq4hmrvpg0pibcsgr1tvaq01l97q741p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ya_rabbi",
+            "certificate_hash": "8922e8b79d42f65321d75f3183315a31762846a4"
+          }
+        },
+        {
+          "client_id": "544241386423-ekh186hjv9aqgumdoag68lhqigus7m4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNm4k9EIb1xCTtRgkA7FoTeUgTbRRhzAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544241386423-ekh186hjv9aqgumdoag68lhqigus7m4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544241386423-6sebifc76ar3ucjrc4r6rn34sufv20km.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yaRabbi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
